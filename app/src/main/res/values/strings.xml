@@ -5,4 +5,7 @@
     <string name="quantidade_do_produto">Nome do Produto</string>
     <string name="salvar">salvar</string>
     <string name="quantidade_do_produtos">Quantidade do Produto</string>
+    <string name="produto">produto</string>
+    <string name="marca">marca</string>
+    <string name="quantidade">quantidade</string>
 </resources>
